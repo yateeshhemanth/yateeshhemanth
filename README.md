@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yateeshhemanth
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning frontend
-- 💞️ I’m looking to collaborate on web 3.0
+- 🌱 I’m currently learning Devops
+- 💞️ I’m looking to collaborate on IT
 - 📫 How to reach me ... 
 
 <!---
